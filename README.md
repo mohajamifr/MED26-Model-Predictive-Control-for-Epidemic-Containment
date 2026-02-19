@@ -1,2 +1,4 @@
 # MED26-Model-Predictive-Control-for-Epidemic-Containment
 This repository contains the code used to generate results for the paper named "Model Predictive Control for Epidemic Containment" , submitted to the MED26 conference.
+
+For further information, please contact me on "mohamad.ajami@grenoble-inp.fr".
